@@ -2,7 +2,7 @@
 Blockhack 2021 Fall Submission
 
 
-##Token Creation
+## Token Creation
 [Based on this ERC-20 Tutorial](https://github.com/Nateliason/erc20-demo)
 
 1. npx create-next-app RegenF00d
